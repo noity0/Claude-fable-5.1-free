@@ -1,0 +1,6 @@
+{
+  "name": "Claude Fable 5.1",
+  "description": "Interactive Claude Fable 5.1 chat and artifacts studio powered by Gemini API with Mythos-class intelligence, live artifacts, and persistent memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
